@@ -1,0 +1,7 @@
+/* Add custom styles here as needed */
+
+/* custom CSS gradient background */
+.bg-gradient-red {
+	background: linear-gradient(to bottom, #d32f2f, #ff5733); /* red gradient */
+	color: #fff;
+}
